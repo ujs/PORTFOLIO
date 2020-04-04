@@ -1,2 +1,2 @@
 # PORTFOLIO
-Collection of complete Machine Learning projects
+Collection of Machine Learning projects
